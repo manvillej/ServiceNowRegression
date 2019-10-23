@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Impersonate">247b476c0b982300cac6c08393673ad2</copied_from>
+        <description>Impersonate the user: Incident Manageratf with user Id: Incident.Manageratf</description>
+        <display_name>Impersonate</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 14:09:31</sys_created_on>
+        <sys_id>75f48ee3dba000104bc4f26b689619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Impersonate</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_step_75f48ee3dba000104bc4f26b689619f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 14:09:31</sys_updated_on>
+        <table/>
+        <test display_value="INCIDENT MGMT: Incident Assignment copy">6df44aa3dba000104bc4f26b68961913</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=75f48ee3dba000104bc4f26b689619f0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>75f48ee3dba000104bc4f26b689619f0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 14:09:31</sys_created_on>
+        <sys_id>71f48ee3dba000104bc4f26b689619f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 14:09:31</sys_updated_on>
+        <value>cae9ddbedbd313001d47765f369619bd</value>
+        <variable display_value="">586e2c4253e0220002c6435723dc3415</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Click a UI Action">2e3813cb735313005754660c4cf6a701</copied_from>
+        <description>Click UI Action 'Save' on 'Incident' form.</description>
+        <display_name>Click a UI Action</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>10</order>
+        <snapshot/>
+        <step_config display_value="Click a UI Action">0f4a128297202200abe4bb7503ac4af0</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:58</sys_created_on>
+        <sys_id>35c28aa3dba000104bc4f26b6896198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click a UI Action</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_step_35c28aa3dba000104bc4f26b6896198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:58</sys_updated_on>
+        <table>incident</table>
+        <test display_value="INCIDENT MGMT: Incident creation - Self service  copy">a9c286a3dba000104bc4f26b68961915</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=35c28aa3dba000104bc4f26b6896198c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>35c28aa3dba000104bc4f26b6896198c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:58</sys_created_on>
+        <sys_id>79c28aa3dba000104bc4f26b6896198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:58</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">3eee292353e0220002c6435723dc343c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>35c28aa3dba000104bc4f26b6896198c</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:58</sys_created_on>
+        <sys_id>b5c28aa3dba000104bc4f26b6896198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:58</sys_updated_on>
+        <value>47fd7f4dc0a8000600a552278b5232ab</value>
+        <variable display_value="">7c5f6d2353e0220002c6435723dc34f6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>35c28aa3dba000104bc4f26b6896198c</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:58</sys_created_on>
+        <sys_id>f1c28aa3dba000104bc4f26b6896198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:58</sys_updated_on>
+        <value/>
+        <variable display_value="">7600f16353e0220002c6435723dc34d5</variable>
+    </sys_variable_value>
+</record_update>

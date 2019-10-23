@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Open a Record Producer">7a7952cf731313005754660c4cf6a758</copied_from>
+        <description>Open 'Create Incident' Record Producer</description>
+        <display_name>Open a Record Producer</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="Open a Record Producer">77409f72c300320076173b0ac3d3ae19</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:57</sys_created_on>
+        <sys_id>2dc28aa3dba000104bc4f26b68961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a Record Producer</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_step_2dc28aa3dba000104bc4f26b68961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:57</sys_updated_on>
+        <table/>
+        <test display_value="INCIDENT MGMT: Incident creation - Self service  copy">a9c286a3dba000104bc4f26b68961915</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=2dc28aa3dba000104bc4f26b68961958"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>2dc28aa3dba000104bc4f26b68961958</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-23 13:59:57</sys_created_on>
+        <sys_id>adc28aa3dba000104bc4f26b68961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-23 13:59:57</sys_updated_on>
+        <value>3f1dd0320a0a0b99000a53f7604a2ef9</value>
+        <variable display_value="">a9145b43c300320076173b0ac3d3ae0e</variable>
+    </sys_variable_value>
+</record_update>
