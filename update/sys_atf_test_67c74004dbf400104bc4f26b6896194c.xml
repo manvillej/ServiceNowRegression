@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Simple UI Test">b9b613060b10220050192f15d6673acd</copied_from>
+        <description>A UI test that opens the 'User' form, sets some values to it, asserts that those values are set, verifies that certain fields are visible, read-only or mandatory, and then submits the form.</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Simple UI Test copy</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:39</sys_created_on>
+        <sys_id>67c74004dbf400104bc4f26b6896194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple UI Test copy</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_test_67c74004dbf400104bc4f26b6896194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:39</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=67c74004dbf400104bc4f26b6896194c"/>
+</record_update>

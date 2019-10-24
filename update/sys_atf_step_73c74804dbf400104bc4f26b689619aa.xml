@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Submit a Form">60b817060b10220050192f15d6673aa1</copied_from>
+        <description>Submit the current form</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>6</order>
+        <snapshot/>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:40</sys_created_on>
+        <sys_id>73c74804dbf400104bc4f26b689619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_step_73c74804dbf400104bc4f26b689619aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:40</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="Simple UI Test copy">67c74004dbf400104bc4f26b6896194c</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=73c74804dbf400104bc4f26b689619aa"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>73c74804dbf400104bc4f26b689619aa</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:40</sys_created_on>
+        <sys_id>ffc74804dbf400104bc4f26b689619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:40</sys_updated_on>
+        <value/>
+        <variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+</record_update>

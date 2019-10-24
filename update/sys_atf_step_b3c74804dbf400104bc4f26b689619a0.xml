@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Field Values Validation">75f2a6820b20220050192f15d6673aef</copied_from>
+        <description>Validate that the form matches the following condition:
+Last name = Chaddington
+and First name = Chad</description>
+        <display_name>Field Values Validation</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <snapshot/>
+        <step_config display_value="Field Values Validation">1b97cd31872022008182c9ded0e3ece5</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:40</sys_created_on>
+        <sys_id>b3c74804dbf400104bc4f26b689619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field Values Validation</sys_name>
+        <sys_package display_value="Regression Suite" source="x_47399_regression">14e18e27db2000104bc4f26b6896198b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Regression Suite">14e18e27db2000104bc4f26b6896198b</sys_scope>
+        <sys_update_name>sys_atf_step_b3c74804dbf400104bc4f26b689619a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:40</sys_updated_on>
+        <table>sys_user</table>
+        <test display_value="Simple UI Test copy">67c74004dbf400104bc4f26b6896194c</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b3c74804dbf400104bc4f26b689619a0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b3c74804dbf400104bc4f26b689619a0</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:40</sys_created_on>
+        <sys_id>b7c74804dbf400104bc4f26b689619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:40</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">a0e13cc35320220002c6435723dc3467</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b3c74804dbf400104bc4f26b689619a0</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:19:40</sys_created_on>
+        <sys_id>f3c74804dbf400104bc4f26b689619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:19:40</sys_updated_on>
+        <value>last_name=Chaddington^first_name=Chad^EQ</value>
+        <variable display_value="">4aa838f25320220002c6435723dc34e1</variable>
+    </sys_variable_value>
+</record_update>
